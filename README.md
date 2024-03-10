@@ -1,4 +1,4 @@
-# Webcam Live Stream
+# CAM
 
 This project creates a simple webpage that displays a live webcam feed using HTML, CSS, and JavaScript.
 
