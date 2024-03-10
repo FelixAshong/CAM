@@ -13,7 +13,7 @@ The project consists of three main files:
 ## Installation
 
 To use this project, simply clone or download the repository to your local machine:
-git clone https://github.com/your-username/webcam-live-stream.git
+git clone https://github.com/FelixAshong/CAM.git
 
 
 ## Usage
